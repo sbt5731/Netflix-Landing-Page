@@ -1,4 +1,4 @@
-# React Movie App
+# React Netflix Landing Page App
 
 This is a React application that fetches and displays information about upcoming, popular, now playing, and top-rated movies using the TMDB API.
 
